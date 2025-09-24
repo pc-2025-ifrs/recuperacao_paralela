@@ -1,0 +1,14 @@
+C:\Users\rafae\Documents\trabalho_twitter\twitter\bin\Debug\net9.0\recuperacao.exe
+C:\Users\rafae\Documents\trabalho_twitter\twitter\bin\Debug\net9.0\recuperacao.deps.json
+C:\Users\rafae\Documents\trabalho_twitter\twitter\bin\Debug\net9.0\recuperacao.runtimeconfig.json
+C:\Users\rafae\Documents\trabalho_twitter\twitter\bin\Debug\net9.0\recuperacao.dll
+C:\Users\rafae\Documents\trabalho_twitter\twitter\bin\Debug\net9.0\recuperacao.pdb
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.AssemblyInfo.cs
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.dll
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\refint\recuperacao.dll
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.pdb
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\recuperacao.genruntimeconfig.cache
+C:\Users\rafae\Documents\trabalho_twitter\twitter\obj\Debug\net9.0\ref\recuperacao.dll
